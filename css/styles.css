@@ -1,0 +1,7 @@
+header {
+  display: flex;
+  flex-direction: row; }
+  header #logo {
+    flex: 3; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaGVhZGVyLmNzcyIsInNvdXJjZXMiOlsiaGVhZGVyLnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiaGVhZGVyIHtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBmbGV4LWRpcmVjdGlvbjogcm93O1xyXG5cclxuICAgICNsb2dvIHtcclxuICAgICAgICBmbGV4OiAzO1xyXG4gICAgfVxyXG59XHJcbiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxBQUFBLE1BQU0sQ0FBQztFQUNILE9BQU8sRUFBRSxJQUFJO0VBQ2IsY0FBYyxFQUFFLEdBQUcsR0FLdEI7RUFQRCxBQUlJLE1BSkUsQ0FJRixLQUFLLENBQUM7SUFDRixJQUFJLEVBQUUsQ0FBQyxHQUNWIn0= */

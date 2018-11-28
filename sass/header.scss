@@ -1,0 +1,42 @@
+header {
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 1rem;
+    background-color: #0c3d81;
+    color: white;
+    height: 4rem;
+    box-sizing: border-box;
+    font-size: 1.2rem;
+
+
+    button {
+        color: inherit;
+        background: none;
+        border: none;
+        cursor: pointer;
+        &:hover {
+            background: rgba(black, 0.2);
+        }
+        margin: 0.5rem;
+        font-size: inherit;
+    }
+
+    .menu {
+        flex: 1;
+    }
+    #logo {
+        flex: 2;
+        text-align: center;
+        img {
+            height: 100%;
+            width: auto;
+        }
+    }
+    .spacer {
+        flex: 1;
+    }
+}

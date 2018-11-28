@@ -1,0 +1,19 @@
+.board-members {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    .board-member {
+        max-width: 400px;
+        margin: 2rem;
+        border: 1px solid #1a3cff;
+        border-radius: 25px;
+        box-sizing: border-box;
+        img {
+            width: 100%;
+            height: auto;
+        }
+        .board-member-description {
+            padding: 1rem;
+        }
+    }
+}

@@ -1,0 +1,14 @@
+footer {
+    display: flex;
+    flex-direction: row;
+    background-color: #585858;
+    color: #cacaca;
+    height: 4rem;
+    width: 100%;
+    padding: 1rem;
+    align-items: center;
+    box-sizing: border-box;
+    p {
+        margin: 0;
+    }
+}
