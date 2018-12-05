@@ -32,7 +32,26 @@
             </p>
         </div>
         <div class="outreach">
-            
+			<h2>Outreach</h2>
+			<ul class="outreach-list">
+				<li>
+					<p><strong>Example service 1</strong></p>
+					<p>this is a description of service 1</p>
+				</li>  
+
+				<li>
+					<p><strong>Example service 2</strong></p>
+					<p>this is a description of service 2</p>
+				</li>  
+				<li>
+					<p><strong>Example service 3</strong></p>
+					<p>this is a description of service 3</p>
+				</li>  
+				<li>
+					<p><strong>Example service 4</strong></p>
+					<p>this is a description of service 4</p>
+				</li>  
+			</ul>            
         </div>
         <?php include("inc/footer.php"); ?>
     </div>
