@@ -10,8 +10,8 @@
         <ul>
             <li class="nav-link"><a href="/">Home</a></li>
             <li class="nav-link"><a href="police.php">Police</a></li>
-            <li class="nav-link"><a href="https://www.johnscreekga.gov/Residents/Fire.aspx">Fire</a></li>
-            <li class="nav-link"><a href="calendar.php">Calendar</a></li>
+            <li class="nav-link"><a href="fire.php">Fire</a></li>
+            <!-- <li class="nav-link"><a href="calendar.php">Calendar</a></li> -->
             <li class="nav-link"><a href="gallery.php">Gallery</a></li>
             <li class="nav-link"><a href="sponsors.php">Sponsorship</a></li>
             <li class="nav-link"><a href="board.php">Board</a></li>

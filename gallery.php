@@ -7,13 +7,13 @@
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 </head>
 <body>
-    <? include("inc/nav.php"); ?>
+    <?php include("inc/nav.php"); ?>
     <div id="content">
-        <? include("inc/header.php") ?>
+        <?php include("inc/header.php") ?>
         <div class="title">
             <h1>Gallery</h1>
         </div>
-        <?
+        <?php
         $photo_ids = array(
             "7mqsZsE6FaU",
             "3mjspmQDM_M",
@@ -30,15 +30,15 @@
         );
         ?>
         <div class="gallery">
-            <? foreach ($photo_urls as $thumbnail_url => $full_url) : ?>
-                <img src="<?php echo $thumbnail_url ?>" class="thumbnail" 
-                data-src="<? echo $full_url; ?>"
-                data-caption="This is a possible caption">
-            <? endforeach; ?>
+            <?php foreach ($photo_urls as $thumbnail_url => $full_url) : ?>
+                <img src="<?php echo $full_url ?>" class="thumbnail"
+                data-src="<?php echo $full_url; ?>"
+                data-caption="">
+            <?php endforeach; ?>
             <div id="image-viewer">
                 <img id="image-viewer-image" src="https://images.unsplash.com/photo-1453873531674-2151bcd01707?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=e7b651936885f9593e2ded264ecbe6c4">
                 <button id="image-viewer-close">
-                <div id="image-viewer-close-text">Close</div>  
+                <div id="image-viewer-close-text">Close</div>
                 <div id="image-viewer-close-icon">
                 &times;
                 </div>
@@ -46,8 +46,8 @@
                 <div id="image-viewer-caption"></div>
             </div>
         </div>
-        
-        
+
+
     </div>
 </body>
 <script src="dist/source.js"></script>
