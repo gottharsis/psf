@@ -11,7 +11,7 @@
     <div id="content">
         <?php include("inc/header.php") ?>
         <div class="hero-image-container">
-            <div style="background-image: url('img/hero/DSC_1989.jpg')" class="hero-image-div"></div>
+            <div style="background-image: url('img/hero/dsc1989.jpg')" class="hero-image-div"></div>
             <div class="hero-text-container">
                 <div class="hero-text">Our Fire Department</div>
             </div>
