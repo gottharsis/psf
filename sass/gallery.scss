@@ -42,9 +42,16 @@ img.thumbnail {
     justify-content: center;
     align-items: center;
     img {
-        flex: 0;
+        flex: 1;
+        display: block;
+        visibility: visible;
+        max-height: 80%;
+        width: auto;
     }
     display: none;
+    // img {
+    //     text-align: center;
+    // }
 }
 #image-viewer-close {
     position: absolute;

@@ -18,13 +18,13 @@
         </div>
         <div class="grid-container">
             <div class="grid-item">
-                <h2>Officer of the Quarter</h2>
+                <h2>Firefighter of the Quarter</h2>
                 <img class="officer-image" src="/img/profile-placeholder.png">
                 <h4>
                     Officer name
                 </h4>
                 <p>
-
+                    
                     This is the officer's biography.
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea iste nihil sit? Quibusdam facere fugiat, exercitationem animi quia necessitatibus ipsum laborum fugit et dolore neque sequi dicta, sint quos quo.
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nam, repudiandae voluptatibus? Praesentium, perferendis odit! Labore harum, accusamus alias fugiat fugit reiciendis, neque molestias incidunt minima ullam quasi sequi adipisci impedit!
@@ -32,43 +32,64 @@
             </div>
 
             <div class="grid-item">
-                <h2> K9 Assistance Program </h2>
+                <h2>Children's Safety</h2>
                 <img src="/img/self-defense.jpg" class="grid-item-image">
-                <p>
-                There are two main ways to support the JCPD Canine Assistance Program:
+                <p> 
+                The JCPD Fire Department has many programs to keep our kids safe, such as:
                 <ul>
-                <li><strong> Training Center </strong> - Your funds support equipment and services used to train K9 officers, both from JCPD and from other jurisdictions. </li>
-                <li><strong> Canine Retirement Fund </strong> - When a K9 officer retires, the city no longer pays their medical bills. Your donations help us ensure our retired dogs live long and healthy lives, even after their service is over. </li>
+                <li><strong> Risk Watch </strong> - Firefighters educate elementary-age students on fire safety, bicycle safety, and other issues. </li>
+                <li>
+                    <strong> Child Car Safety Seat Installation </strong> - 
+                    JCFD officers instruct caregivers in the proper procedures to install child car seats in all types of vehicles.
+                 </li>
+                 <li>
+                    <strong>Fire Station Tours</strong> -
+                    JCFD offers tours of fire stations and demonstrations of equipment. Open to students and organizations!
+                 </li>
                 </ul>
                 </p>
             </div>
 
             <div class="grid-item">
-                <h2> Community Outreach and Events </h2>
+                <h2> Home Safety </h2>
                 <img src="/img/self-defense.jpg" class="grid-item-image">
-                <p>
-                Your funds support many outreach programs, including:
+                <p> 
+                JCFD offers programs directed to homeowners, including:  
                 <ul>
-                <li>Girls’ and Women’s Self-Defense Classes</li>
-                <li>Active Shooter Training</li>
-                <li>Citizens’ Auxiliary Police Services – Volunteers who assist police</li>
-                <li>PACT – Neighborhood Watch Program</li>
-                <li>SHIELD – Business Watch Program</li>
-                <li>STOP – Teen Safe Driving Program</li>
+                    <li>
+                        <strong>Smoke Detectors</strong> -
+                        JCFD provides smoke detectors to homeowners, and, if needed, firefighters will install them. 
+                    </li>
+                    <li>
+                        <strong>Safety Checklist</strong> -
+                        JCFD offers safety checklists to homeowners (and businesses) to prevent common fire hazards. Fire Department personnel provide on-site assistance as needed.
+                    </li>
+                    <li>
+                        <strong>Water Safety</strong> -
+                        Firefighters teach citizens about water safety at the pool and at the river, including dam water release schedules. Click <a href="">here</a> for the water release schedule. 
+                    </li>
                 </ul>
                 </p>
             </div>
-
+            
             <div class="grid-item">
-                <h2> JCPD Health Initiative </h2>
+                <h2> Businesses and Organizations </h2>
                 <img src="/img/self-defense.jpg" class="grid-item-image">
-                <p>
-                    Physical fitness is central to a police officer’s performance and safety. Your funds support fitness programs, such as:
+                <p> 
+                    JCFD teaches businesses and organizations safety practices, such as:
                     <ul>
-                        <li><strong>Officers’ Fitness Center </strong> - A dedicated gym for police officers and other City employees</li>
-                        <li><strong>Battle on the Creek</strong> - Police officers compete against local CrossFit gyms </li>
-                        <li><strong>5K Run </strong> - Raises funds for Special Olympics programs</li>
-                        <li><strong>Golf Tournament</strong></li>
+                        <li>
+                            <strong>CPR/AED Training</strong> -
+                            4 annual classes are offered to the community throughout the year. Click <a href="">here</a> to sign up. 
+                        </li>
+                        <li>
+                            <strong>Portable Fire Extinguisher Training</strong> -
+                            Firefighters will come out to businesses and organizations to provide hands-on fire extinguisher training. 
+                        </li>
+                        <li>
+                            <strong>Community Room</strong> -
+                            Book the JCFD community room for your next business or organization meeting! Click <a href="">here</a> for more information. 
+                        </li>
                     </ul>
                 </p>
             </div>
